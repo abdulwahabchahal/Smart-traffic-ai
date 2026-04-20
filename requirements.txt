@@ -1,0 +1,13 @@
+# Deep Learning Project Requirements
+torch
+torchvision
+torchaudio
+ultralytics
+transformers
+numpy
+pandas
+matplotlib
+stable-baselines3
+jupyterlab
+opencv-python
+scikit-learn

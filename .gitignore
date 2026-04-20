@@ -1,0 +1,55 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Large Datasets & Media
+data/
+*.mp4
+*.mov
+*.avi
+*.npz
+*.csv
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.gz
+*.pkl
+
+# Pre-trained models and checkpoints
+models/
+*.pt
+*.pth
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs & Outputs
+outputs/
+logs/
+*.log
+runs/
+tensorboard/
+wandb/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
